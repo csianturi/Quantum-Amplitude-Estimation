@@ -1,0 +1,8 @@
+qae_project/
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+hello_quantum.ipynb
