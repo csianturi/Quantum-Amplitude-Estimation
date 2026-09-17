@@ -75,6 +75,3 @@ where \(m\) is the number of evaluation qubits and \(y\) is the measured phase-e
 
 This project is an educational simulator example. It uses the conventional phase-estimation-based form of QAE, whose controlled Grover powers become deep as the number of evaluation qubits increases. Results vary slightly between runs because the Aer simulator samples a finite number of shots.
 
-## Reference
-
-- G. Brassard, P. Høyer, M. Mosca, and A. Tapp, *Quantum Amplitude Amplification and Estimation* (2002). https://arxiv.org/abs/quant-ph/0005055
